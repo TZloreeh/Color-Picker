@@ -1,0 +1,18 @@
+#title {
+    text-align: center;
+}
+
+#exampleText {
+    display: inline-block;
+    position: absolute;
+    margin-left: 30%;
+    text-align: justify;
+}
+
+#container {
+    display: inline-block;
+    position: absolute;
+    margin-left: 30%;
+    text-align: justify;
+    margin-top: 10%;
+}
